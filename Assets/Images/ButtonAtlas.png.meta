@@ -1,0 +1,810 @@
+fileFormatVersion: 2
+guid: 01d1a864624dc0747a3970b05d647886
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButtonAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 873
+        width: 437
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a33ae538116cc40a4f94248e0ba9fc
+      internalID: 873944702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 876
+        width: 436
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822db58420d0895429792a70be706b07
+      internalID: -1558571973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 692
+        width: 432
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769105c91f288ac4982ea8e1e3056313
+      internalID: 868294257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 684
+        width: 437
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fdfc5b10fd28b41b7b7544dcb0091b
+      internalID: 2066252079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 687
+        width: 436
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f168a5e1ad505bc4c82f87efb31461d2
+      internalID: 1229016414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 476
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874a5fd4efc416547937bb79abfa096f
+      internalID: -601755937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 472
+        width: 137
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ecffa5355228b47af627b204feea5c
+      internalID: -229935795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 469
+        width: 137
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176a884a63901c14dae7f64850c0982c
+      internalID: -1663375809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 471
+        width: 137
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702e649c7c27f5445a78ea2aed6f57a6
+      internalID: 835681131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 473
+        width: 137
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7359819061e684b4e81a8dc0435e580d
+      internalID: -873740801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 473
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ca789a22fc91c429dd42ec3bfcc82c
+      internalID: -1896789066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 476
+        width: 139
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aeeedac97903445badc8d2de33ddb8
+      internalID: 534031849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 474
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ae420c5d62fd0418f6454243a9e679
+      internalID: -267304771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 476
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cc1d6c052e55e4da7613e9bbf15f7c
+      internalID: 1269376875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 278
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0068087a2adbf4a8d1eda05af50cf8
+      internalID: -1164882602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 275
+        width: 140
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0344f4a31cbd292409125afacfa24dae
+      internalID: 1501950837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 275
+        width: 140
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd020d18def08cf46ad3f844f3566a43
+      internalID: -1646701243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 278
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7799cf01eb525dc498a4daa4c9a23b26
+      internalID: -442746940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 260
+        width: 167
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76469896fd0654140827844e7ae13d66
+      internalID: 735714083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 268
+        width: 90
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4d87d0aa9809143bf686a2685e4460
+      internalID: 1529890503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 260
+        width: 125
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2c973fa8660c743b1a2a01205acc4d
+      internalID: 1051265030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 281
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342289542813a8341807b2e19a9905b1
+      internalID: -322042871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 268
+        width: 92
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0354660d912daa84bb39fb27fed74b36
+      internalID: -586681479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 266
+        width: 92
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfc0f8c52a0f4b49b43821bd3fb9023
+      internalID: -520532627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 148
+        width: 590
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dd9a570e5749c4a936c4394d0ec3ef
+      internalID: -1647036518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 148
+        width: 590
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ecbeabf149c8545a00810debb3deba
+      internalID: 672154978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 146
+        width: 589
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b067dd81668ac42a3bfc3e2cc3e04d
+      internalID: -1893101532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 67
+        width: 590
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00278a7d6eef4c40b1b8c213b31eb4c
+      internalID: -495338416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_50
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 67
+        width: 590
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae2e4c7bc2b80a459c184245019939a
+      internalID: -1618596127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAtlas_51
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 65
+        width: 589
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a44a2367dd93144bd1fc0a6b03c5a5
+      internalID: 1573045561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ButtonAtlas_0: 873944702
+      ButtonAtlas_1: -1558571973
+      ButtonAtlas_10: 1229016414
+      ButtonAtlas_11: 1171203566
+      ButtonAtlas_12: -161555441
+      ButtonAtlas_13: 1191384895
+      ButtonAtlas_14: -1643123063
+      ButtonAtlas_15: -601755937
+      ButtonAtlas_16: -229935795
+      ButtonAtlas_17: -1663375809
+      ButtonAtlas_18: 835681131
+      ButtonAtlas_19: -873740801
+      ButtonAtlas_2: 868294257
+      ButtonAtlas_20: -1896789066
+      ButtonAtlas_21: 534031849
+      ButtonAtlas_22: -267304771
+      ButtonAtlas_23: 1269376875
+      ButtonAtlas_24: -351385699
+      ButtonAtlas_25: 1278602664
+      ButtonAtlas_26: 439742138
+      ButtonAtlas_27: -1164882602
+      ButtonAtlas_28: 1501950837
+      ButtonAtlas_29: -1646701243
+      ButtonAtlas_3: -63971244
+      ButtonAtlas_30: -442746940
+      ButtonAtlas_31: 735714083
+      ButtonAtlas_32: 1529890503
+      ButtonAtlas_33: 1051265030
+      ButtonAtlas_34: -102296989
+      ButtonAtlas_35: -1138540513
+      ButtonAtlas_36: 186649055
+      ButtonAtlas_37: -322042871
+      ButtonAtlas_38: -586681479
+      ButtonAtlas_39: -520532627
+      ButtonAtlas_4: 564932727
+      ButtonAtlas_40: -1491657558
+      ButtonAtlas_41: 963128907
+      ButtonAtlas_42: 1139912699
+      ButtonAtlas_43: -1647036518
+      ButtonAtlas_44: 672154978
+      ButtonAtlas_45: -1893101532
+      ButtonAtlas_46: -1731950569
+      ButtonAtlas_47: -122929409
+      ButtonAtlas_48: -1684530524
+      ButtonAtlas_49: -495338416
+      ButtonAtlas_5: -619576235
+      ButtonAtlas_50: -1618596127
+      ButtonAtlas_51: 1573045561
+      ButtonAtlas_52: -1790972167
+      ButtonAtlas_6: -399542479
+      ButtonAtlas_7: 738623532
+      ButtonAtlas_8: -1336905660
+      ButtonAtlas_9: 2066252079
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
