@@ -1,0 +1,1249 @@
+fileFormatVersion: 2
+guid: 7c793b935f4773146a18c86cc0c8a8a2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1267
+        width: 200
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a841d70f0f819874aa6ef9e9eae7c2cd
+      internalID: -139634482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1267
+        width: 200
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2982633d8362647a0619974efac4aa
+      internalID: -539220523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_2
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1267
+        width: 200
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dd9f4edb9fd6e4babe57b7ae7bc0db
+      internalID: 1711315492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_3
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1267
+        width: 201
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81c473716b9c504cbd33188a95f8dde
+      internalID: 802470200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_4
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1267
+        width: 200
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd115c81fcc41d4c9eb9b526a11981a
+      internalID: 452555930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_5
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1267
+        width: 200
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a17c960c6111c946bf3343e0da3fc76
+      internalID: -422514449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_6
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1304
+        width: 169
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f523c6507a0b5a4aa76090d82cbd8cd
+      internalID: 607228158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_7
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 1304
+        width: 167
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0189abd30917e7d4d8951318cd6c377c
+      internalID: -766397387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_8
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 1304
+        width: 167
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4123c7affce1de44c858bc3041d80011
+      internalID: -83334413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_9
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 1304
+        width: 169
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f84281fe7875d548a5190fb09f6bab4
+      internalID: -1211067009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_10
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 1304
+        width: 169
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2600bea9becd80c4e901130bb685c2a6
+      internalID: 728664844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_11
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 1304
+        width: 170
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b5234b0579f0348bdc897907e59f5d
+      internalID: -1909995770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 958
+        width: 207
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae11f11e29ae63046bcc71d00b4bac5b
+      internalID: -281030658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 958
+        width: 206
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479d2e430d2cc0448a017c2e42ed1bdd
+      internalID: 1000481464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_14
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 958
+        width: 206
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a8ea7a0b9556543ba16f8349f79bb0
+      internalID: -138458795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_15
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 958
+        width: 206
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5121213af9fe63443a5c9275aa76a72e
+      internalID: 5279803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_16
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 958
+        width: 207
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4913f11eb3a504296192dd14fdc647
+      internalID: -1039642454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_17
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 958
+        width: 205
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f760f18b3a4a4b42a377e88c539af10
+      internalID: -2060489318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_18
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 966
+        width: 183
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3482cc1b29c0cd45bdfeff0ad6b1626
+      internalID: 1780205671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_19
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 966
+        width: 182
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30fd87cd14591c488b1631b0beb9a8a
+      internalID: -142720799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_20
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 966
+        width: 182
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062e64ffc038d504faed4dfebdddf36d
+      internalID: -1169066644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_21
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 966
+        width: 184
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e9621e2f9062944a36d65ca50fcceb
+      internalID: -1384121987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_22
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 966
+        width: 182
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abe185a2075cb948b88a0fda40a634b
+      internalID: 246446052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_23
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 966
+        width: 181
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c90afe611a535f4d83a95ece01830c7
+      internalID: 144555959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 689
+        width: 196
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592c7be9b386bf84b8ebe5ebb0746bf6
+      internalID: -1870034658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_25
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 689
+        width: 196
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0575b21b18cf64ab73bd154cf3fe4d
+      internalID: -1976857027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_26
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 689
+        width: 196
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c818ecf61e0f045b30068e7187da92
+      internalID: 889798482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_27
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 689
+        width: 196
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e55199af8195fd47b59de0511389f96
+      internalID: -873899069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_28
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 689
+        width: 194
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba554479fe0bcf14b8ee5e29681c4d75
+      internalID: -1988242231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_29
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 689
+        width: 192
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418c75ddfb171834897a665c5ac80462
+      internalID: -1578878178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_30
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 675
+        width: 167
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e93386c77f6e4a98d53da83cd6446
+      internalID: 1742121653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_31
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 675
+        width: 169
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3779f8e84289c459220b7938395cb5
+      internalID: 2094073436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_32
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 675
+        width: 169
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1340b64d1128234c8acc5205393a743
+      internalID: -1348430008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_33
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 675
+        width: 169
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15392f2e44de6474cb9400d1a1e1e7c0
+      internalID: 1198365311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_34
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 675
+        width: 169
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f76c7e8a3f39b64eb8bc8310987e05c
+      internalID: 1816735449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_35
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 675
+        width: 169
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bf667ac45bbe14a9abc076998f72fc
+      internalID: 489089717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 419
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d322136ed0fe6b41a1f159d66542df5
+      internalID: -1334715800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_37
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 419
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cbd7ea254e40147ab3d389bbfb8d0f
+      internalID: -2091094147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_38
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 419
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38204ac3ed7f4f24fa0b6fc3d0a925ad
+      internalID: 252876815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_39
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 419
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a74d69dce56954b8099d8528b39605
+      internalID: 32840010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_40
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 419
+        width: 169
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbc27ed11de826409b848c5550a6729
+      internalID: 383171540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_41
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 419
+        width: 167
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53664208f40eefd4789e2892111a3090
+      internalID: 1602797564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_42
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 488
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c528983a8420546bad8aa4257d9eda
+      internalID: 1803804761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_43
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 492
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc9cff21270c0441aef375255e68d99
+      internalID: -1956394570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_44
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 356
+        width: 199
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902c01607f83d474093b339f33ec297c
+      internalID: -500385487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_45
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 358
+        width: 173
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcc1e7e21748624f8fa0751cc3ccc2f
+      internalID: -399380146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_46
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 393
+        width: 140
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771517e4091b1d04e8eaaf8a736986cb
+      internalID: 1391092394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_47
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 372
+        width: 141
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdeb8893138d984d886590ef21133dd
+      internalID: 1261770552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_48
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 352
+        width: 207
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40032c0a6409084c87905191befa14a
+      internalID: -581318575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_49
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 386
+        width: 189
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbf96b20e5b04a4cae3ee131326ca05
+      internalID: 561357994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameObject(5x12Atlas)_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 88
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7511ca38c902f94ca74619937981299
+      internalID: -1848589503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GameObject(5x12Atlas)_0: -139634482
+      GameObject(5x12Atlas)_1: -539220523
+      GameObject(5x12Atlas)_10: 728664844
+      GameObject(5x12Atlas)_11: -1909995770
+      GameObject(5x12Atlas)_12: -281030658
+      GameObject(5x12Atlas)_13: 1000481464
+      GameObject(5x12Atlas)_14: -138458795
+      GameObject(5x12Atlas)_15: 5279803
+      GameObject(5x12Atlas)_16: -1039642454
+      GameObject(5x12Atlas)_17: -2060489318
+      GameObject(5x12Atlas)_18: 1780205671
+      GameObject(5x12Atlas)_19: -142720799
+      GameObject(5x12Atlas)_2: 1711315492
+      GameObject(5x12Atlas)_20: -1169066644
+      GameObject(5x12Atlas)_21: -1384121987
+      GameObject(5x12Atlas)_22: 246446052
+      GameObject(5x12Atlas)_23: 144555959
+      GameObject(5x12Atlas)_24: -1870034658
+      GameObject(5x12Atlas)_25: -1976857027
+      GameObject(5x12Atlas)_26: 889798482
+      GameObject(5x12Atlas)_27: -873899069
+      GameObject(5x12Atlas)_28: -1988242231
+      GameObject(5x12Atlas)_29: -1578878178
+      GameObject(5x12Atlas)_3: 802470200
+      GameObject(5x12Atlas)_30: 1742121653
+      GameObject(5x12Atlas)_31: 2094073436
+      GameObject(5x12Atlas)_32: -1348430008
+      GameObject(5x12Atlas)_33: 1198365311
+      GameObject(5x12Atlas)_34: 1816735449
+      GameObject(5x12Atlas)_35: 489089717
+      GameObject(5x12Atlas)_36: -1334715800
+      GameObject(5x12Atlas)_37: -2091094147
+      GameObject(5x12Atlas)_38: 252876815
+      GameObject(5x12Atlas)_39: 32840010
+      GameObject(5x12Atlas)_4: 452555930
+      GameObject(5x12Atlas)_40: 383171540
+      GameObject(5x12Atlas)_41: 1602797564
+      GameObject(5x12Atlas)_42: 1803804761
+      GameObject(5x12Atlas)_43: -1956394570
+      GameObject(5x12Atlas)_44: -500385487
+      GameObject(5x12Atlas)_45: -399380146
+      GameObject(5x12Atlas)_46: 1391092394
+      GameObject(5x12Atlas)_47: 1261770552
+      GameObject(5x12Atlas)_48: -581318575
+      GameObject(5x12Atlas)_49: 561357994
+      GameObject(5x12Atlas)_5: -422514449
+      GameObject(5x12Atlas)_50: -1848589503
+      GameObject(5x12Atlas)_6: 607228158
+      GameObject(5x12Atlas)_7: -766397387
+      GameObject(5x12Atlas)_8: -83334413
+      GameObject(5x12Atlas)_9: -1211067009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
