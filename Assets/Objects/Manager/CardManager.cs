@@ -77,7 +77,7 @@ public class CardManager : MonoBehaviour
 
         while (randomList.Count < w * h / 2)
         {
-            int a = Random.Range(0, 19);
+            int a = Random.Range(0, 20);
             if (!randomList.Contains(a))
             {
                 randomList.Add(a);
