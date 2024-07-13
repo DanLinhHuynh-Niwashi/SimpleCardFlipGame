@@ -55,6 +55,7 @@ public class CardManager : MonoBehaviour
         {
             card.gameObject.SetActive(false);
             card.matchImg.enabled = true;
+            card.transform.SetParent(null);
         }
         upCard.Clear();
     }

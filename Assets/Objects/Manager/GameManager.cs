@@ -42,12 +42,12 @@ public class GameManager : MonoBehaviour
         //Tổng số cặp thẻ
         numOfPair = w * h / 2;
 
+
         while (listCard.Count != 0)
         {
             int index = Random.Range(0, listCard.Count);
             listCard[index].transform.SetParent(cardField);
             listCard.Remove(listCard[index]);
-
         }
     }
 
