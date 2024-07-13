@@ -15,7 +15,7 @@ public class Card : MonoBehaviour
     public bool isEnabled { get;  set; }
     public Sprite[] bgImage { get; set; }
 
-    public bool isFlipped = false;
+    public bool isFlipped = true;
     void Start()
     {
         bgImg = this.GetComponent<Image>();

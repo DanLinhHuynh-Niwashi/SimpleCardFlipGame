@@ -54,9 +54,9 @@ public class CardManager : MonoBehaviour
         foreach (Card card in cardPool)
         {
             card.gameObject.SetActive(false);
-            card.matchImg.enabled = false;
+            card.matchImg.enabled = true;
         }
-        pair.Clear();
+        upCard.Clear();
     }
 
 
@@ -95,12 +95,16 @@ public class CardManager : MonoBehaviour
                 card.id = id++;
                 card.matchID = i; //Cặp thẻ giống nhau có cùng matchID
                 card.bgImage = bgImage;
-                card.bgImg.sprite = bgImage[0]; //Ban đầu thẻ úp
+                card.bgImg.sprite = bgImage[1]; //Ban đầu thẻ lật
                 card.matchImg.sprite = matchImages[randomList[i]]; //gán một pattern trong list đã chọn cho cặp thẻ
                 card.isEnabled = true;
+                card.isFlipped = true;
                 list.Add(card);
+                upCard.Add(card);
             }
-        }    
+        }
+        
+        countDown = 1;
         return list;
     }
 
@@ -108,23 +112,31 @@ public class CardManager : MonoBehaviour
 
 
     //QUẢN LÝ THẺ LẬT
-    List<Card> pair = new List<Card>(); 
+    List<Card> upCard = new List<Card>(); 
     float countDown = 0;
 
+    void flipAllUpCard()
+    {
+        foreach (Card card in upCard)
+        {
+            Debug.Log(card.isFlipped);
+            card.flip();
+        }
+        upCard.Clear();
+    }    
     //ĐẾM NGƯỢC VÀ LẬT LẠI THẺ KHI THẺ BỊ SAI
     void countDownOpeningCard()
     {
         if (countDown > 0)
         {
             countDown -= Time.deltaTime;
+            Debug.Log(countDown);
             if (countDown <= 0)
             {
                 countDown = 0;
-                if (pair.Count == 2)
+                if (upCard.Count >= 2)
                 {
-                    pair[0].flip();
-                    pair[1].flip();
-                    pair.Clear();
+                    flipAllUpCard();
                 }
             }
         }
@@ -139,23 +151,23 @@ public class CardManager : MonoBehaviour
         }
         if (card.isFlipped) //NẾU THẺ ĐÃ ĐƯỢC LẬT: Xóa nó khỏi pair và úp thẻ lại
         {
-            pair.Remove(card);
+            upCard.Remove(card);
             card.flip();
         }
         else //NẾU CHƯA: Thêm vào pair
         {
-            pair.Add(card);
+            upCard.Add(card);
             card.flip();
         }
 
-        if (pair.Count == 2) //NẾU ĐANG CÓ 2 THẺ LẬT TRÊN BÀN: So sánh có match hay không, nếu không thì countdown 0.5s rồi đóng lại.
+        if (upCard.Count == 2) //NẾU ĐANG CÓ 2 THẺ LẬT TRÊN BÀN: So sánh có match hay không, nếu không thì countdown 0.5s rồi đóng lại.
         {
-            if (pair[0].matchID == pair[1].matchID)
+            if (upCard[0].matchID == upCard[1].matchID)
             {
-                pair[0].isEnabled = false;
-                pair[1].isEnabled = false;
+                upCard[0].isEnabled = false;
+                upCard[1].isEnabled = false;
                 Debug.Log("Match!");
-                pair.Clear();
+                upCard.Clear();
                 GameManager.Instance.numOfPair--; //Giảm số cặp thẻ còn lại của game đang chạy
             }
             else

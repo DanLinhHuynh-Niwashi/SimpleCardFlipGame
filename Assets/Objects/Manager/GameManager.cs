@@ -57,7 +57,7 @@ public class GameManager : MonoBehaviour
     public TextMeshProUGUI timeText;
 
     float time = 0;
-    float maxTime = 60;
+    float maxTime = 61;
     public int numOfPair;
 
     private void Start()
@@ -83,7 +83,7 @@ public class GameManager : MonoBehaviour
         time -= Time.deltaTime;
         int min = (int)time / 60;
         int sec = (int)time - min*60;
-        timeText.text = min.ToString() + ":" + sec.ToString();
+        timeText.text = min.ToString("00") + ":" + sec.ToString("00");
         slider.value = time / maxTime;
 
         //Khi không còn cặp thẻ úp nào hoặc hết thời gian thì endgame
